@@ -1,3 +1,4 @@
+feature 0
 feature 1
 modified feature 2
 feature 3
