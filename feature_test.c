@@ -1,2 +1,4 @@
 test feature 1
-test feature 2
+modified test feature 2
+test feature 3
+test feature 4
